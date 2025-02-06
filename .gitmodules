@@ -1,0 +1,3 @@
+[submodule "ParFlow_solver/ParFlow_Advanced_ShortCourse"]
+	path = ParFlow_solver/ParFlow_Advanced_ShortCourse
+	url = git@github.com:hydroframe/ParFlow_Advanced_ShortCourse.git
